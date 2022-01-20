@@ -25,9 +25,9 @@ The following libraries are included:
 ----------------------------------------------------------
 
 **Files in the repository:**
-* [model]: machine learning pipeline, which I built
-* [data]: contains 2 csv files + ETL pieline, which I built
-* [app]: contains 2 html files + flask file, which I modefied to have two addtional visualization. One that shows the top 5 disaster categories and the other that shows the lowest 5 disaster categories.
+* [model]: machine learning pipeline (train_calssifier.py), which I built
+* [data]: contains 2 csv files + ETL pieline (process_data.py), which I built
+* [app]: contains 2 html files + flask file (run.py), which I modefied to have two addtional visualization. One that shows the top 5 disaster categories and the other that shows the lowest 5 disaster categories.
 
 *data used:* given as csv file from Figure Eight
 
